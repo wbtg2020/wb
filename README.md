@@ -5,5 +5,10 @@
 
 [阿法猪](http://larmy.cn/NDZZb "阿法猪")
 
-微博、微信、抖音、快手、今日头条、各大直播及新媒体想要红，就用它。想要火也得用它。它就是 
+微博、微信、抖音、快手、今日头条、各大直播及新媒体想要红，就用它。想要火也得用它。
+
+
+&copy; &  &uml; &trade; &iexcl; &pound;
+&amp; &lt; &gt; &yen; &euro; &reg; &plusmn; &para; &sect; &brvbar; &macr; &laquo; &middot;
+
 
