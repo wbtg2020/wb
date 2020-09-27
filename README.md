@@ -8,14 +8,7 @@
 微博、微信、抖音、快手、今日头条、各大直播及新媒体想要红，就用它。想要火也得用它。
 
 
->  :star:
+>  :star: - [x] :smiley: - [x] :smiley: - [x] :smiley: - [x] :smiley:
 
 
 
-- [x] :smiley: @mentions, :smiley: #refs, [links](), **formatting**, and <del>tags</del> supported :editormd-logo:;
-- [x] list syntax required (any unordered or ordered list supported) :editormd-logo-3x:;
-- [x] [ ] :smiley: this is a complete item :smiley:;
-- [ ] []this is an incomplete item [test link](#) :fa-star: @pandao;
-- [ ] [ ]this is an incomplete item :fa-star: :fa-gear:;
-    - [ ] :smiley: this is an incomplete item [test link](#) :fa-star: :fa-gear:;
-    - [ ] :smiley: this is  :fa-star: :fa-gear: an incomplete item [test link](#);
