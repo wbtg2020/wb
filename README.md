@@ -8,7 +8,7 @@
 微博、微信、抖音、快手、今日头条、各大直播及新媒体想要红，就用它。想要火也得用它。
 
 
->  :star: - [微博] :smiley: - [x] :smiley: - [x] :smiley: - [x] :smiley:
+>  :star: - [微博] -:star:  :smiley: - [x] :smiley: - [x] :smiley: - [x] :smiley:
 
 
 
